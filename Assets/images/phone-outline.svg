@@ -1,0 +1,13 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#190933" id="svg_1" d="m14.5,18l0,4a1,1 0 0 0 1,1l0,36a5,5 0 0 0 5,5l24,0a5,5 0 0 0 5,-5l0,-54a5,5 0 0 0 -5,-5l-24,0a5,5 0 0 0 -5,5l0,4a1,1 0 0 0 -1,1l0,4a1,1 0 0 0 1,1l0,2a1,1 0 0 0 -1,1zm6,-16l24,0a3,3 0 0 1 3,2.5l-3,0a4.34,4.34 0 0 0 -3.35,1.65a3.45,3.45 0 0 1 -2.65,1.35l-12,0a3.45,3.45 0 0 1 -2.65,-1.35a4.34,4.34 0 0 0 -3.35,-1.65l-2.95,0a3,3 0 0 1 2.95,-2.5zm24,60l-24,0a3,3 0 0 1 -3,-3l0,-53.5l3,0a3.45,3.45 0 0 1 2.65,1.35a4.34,4.34 0 0 0 3.35,1.65l12,0a4.34,4.34 0 0 0 3.35,-1.65a3.45,3.45 0 0 1 2.65,-1.35l3,0l0,53.5a3,3 0 0 1 -3,3z" class="cls-1"/>
+  <text stroke="null" transform="matrix(0.7125939726829529,0,0,0.42913609743118286,41.32808858435601,12.50548736564815) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_17" y="16.77162" x="33.097129" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">RPSlive.tk</text>
+ </g>
+</svg>

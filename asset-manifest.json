@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/listgame/static/css/main.77753fe2.chunk.css",
+    "main.js": "/listgame/static/js/main.b0169572.chunk.js",
+    "main.js.map": "/listgame/static/js/main.b0169572.chunk.js.map",
+    "runtime-main.js": "/listgame/static/js/runtime-main.d9415f44.js",
+    "runtime-main.js.map": "/listgame/static/js/runtime-main.d9415f44.js.map",
+    "static/js/2.7212d738.chunk.js": "/listgame/static/js/2.7212d738.chunk.js",
+    "static/js/2.7212d738.chunk.js.map": "/listgame/static/js/2.7212d738.chunk.js.map",
+    "static/js/3.fe26258f.chunk.js": "/listgame/static/js/3.fe26258f.chunk.js",
+    "static/js/3.fe26258f.chunk.js.map": "/listgame/static/js/3.fe26258f.chunk.js.map",
+    "index.html": "/listgame/index.html",
+    "static/css/main.77753fe2.chunk.css.map": "/listgame/static/css/main.77753fe2.chunk.css.map",
+    "static/js/2.7212d738.chunk.js.LICENSE.txt": "/listgame/static/js/2.7212d738.chunk.js.LICENSE.txt",
+    "static/media/ads.c9fef00d.txt": "/listgame/static/media/ads.c9fef00d.txt",
+    "static/media/phone-outline-with-title.8342e959.svg": "/listgame/static/media/phone-outline-with-title.8342e959.svg",
+    "static/media/rock-icon-better.6f0aa105.png": "/listgame/static/media/rock-icon-better.6f0aa105.png",
+    "static/media/sharp-cut.f381a62c.wav": "/listgame/static/media/sharp-cut.f381a62c.wav",
+    "static/media/sharp-thud.840d618e.wav": "/listgame/static/media/sharp-thud.840d618e.wav",
+    "static/media/snap-paper.5c243d62.wav": "/listgame/static/media/snap-paper.5c243d62.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9415f44.js",
+    "static/js/2.7212d738.chunk.js",
+    "static/css/main.77753fe2.chunk.css",
+    "static/js/main.b0169572.chunk.js"
+  ]
+}
